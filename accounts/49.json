@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fleet-resolver-337323",
+  "private_key_id": "9d97d020de0d0a4f24ee513d5e3e432444348f45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3w/Skb/AiVn3J\nRWLo0LrHr4GJTJWToj063JqEtNCrCttl1TMemBeAW75fy1KwjFeMKORxDoQJDB92\nqeicwkmjSn9M2Jv9JsL9UpzOqiaxdAqPDlxQD0/HS22fVsfMyD+U6HeewnZMzDlC\nr9zFXcZJ9LXzUzwf5JR9CojlitqrlT7eSfZtRwrN5hqAuqkGzldFWsV3tRVRRLX9\n8BAEzKao2CqZVuGJqmS0ePI0qgq9CLVpjvRx9olwib2f8am1PvrFdFOmepjp2bFw\nCpCAGQFg54rB1PBwTpOudsHM9eI6+/EwSC+LnLRxU83jY10rE8tndGm0qShDrzUV\nvoD1aDR9AgMBAAECggEADHb2OSZ+m1Wn4pHE9mscwD60rU4h4d8MrYQZLGHiEDgE\nTxFPDlwypo+Sh4eQbE6YrEvPHaa7vgFcgP1gEddRN1+Y6EApFIV0jx+eE0aR/qdo\nWpvBbIzH/zSr6DWdXSlCvCRTONQ9Qf2i71W5G99oe8u61m5m6E2Q5N+6DsKEYpmi\nHEYtY/nvbVNaY+VfDPyvvV6DNJ3CD0ChA5VDywkKTE42aXmJLk/1lugQzq9/4AIU\nc/zJjePTlMxHyLOBjmyziF/lvQvbqZLxs5EPQsLyKVv108dtQkQxdQ0pdoGxIZ/i\ncoTJD1w1z+D+sxYZXZlqIcBm81V0v1+Ddxy/aGk8AQKBgQDtTpmzMck47Unoymt3\nVQdK1TMsxVrsk32rR9inT9Mu7P4wAYHShmtvy55oQedIrMoFkherd7O+ptFWmLDO\nrR8P8OpbNkesN4AXnyiZDweTJ4h2vSIRhGmwZzyB8zjuG2txeci5KJ97b6qTeYCC\nWPQWYfXRRBLkRK0Wt6X4lzBX3QKBgQDGPap8FSNTOax9KGzRHftzXV3F+ReWGer2\nMpTpOiXZZzSU8r+PQHRT4Xa8PMN0ihD5NJxv1Hrp7TPqWa8kU6CmMxf6JmTLNn/1\nRoLl3khHRtcQCmKl2YklZRl4nQzUmqsjliOTU3t3RhFuFcLPPmI31W9aB3IEwS59\ngY7dwzrVIQKBgHJ1aNjveHjGqtFnYLIsBtpnPsmnXxWghgqpGqyIafnGQUvyTiW2\nw/cmJP9wWhfJj59kOZpwn/ejCnFUMGNfSQ4tSzw3UBaWpme+UpyQjTzC4qUy0E3W\nqgt1n8+l+p2OCCKxdMkp+NJWp9V90ygLs59gHGqVBO+o2DuO1LS0Z5LZAoGAbVPu\n5LWHoMtqzC9yK7W8SfhQ0fC4yEgM47ArnaA65XXcctSZPniObwAlylQ8etX13Gne\naHInQ0FU40aIp6ETNPVyoLtx1Px+fxde80SuWdjAnJENrGeXEi96Z6E9RTbzcRHJ\nFuPwcGwNCsgngsHlyuMDoQQAJo0fhYng735OwOECgYBoJIfpLyO9+cPxM+FDtA2+\naBLFO5wvUbl+sxOkV9NA6iV9SHsD3HVlns6JlErnhARbOTtBNecNvfjhq+QNFd8b\nuoAgfzMMO6K/23wL2JtFZQE0ViNrEv842fibLFLklUzav/RR2eaTpUb7Vsa1YK/U\nZ2GF1qR6pcHFg0/IP0XCTw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-usen4wsa-kb1ll1e46e1x0r4eh@fleet-resolver-337323.iam.gserviceaccount.com",
+  "client_id": "105722624790513126071",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-usen4wsa-kb1ll1e46e1x0r4eh%40fleet-resolver-337323.iam.gserviceaccount.com"
+}
